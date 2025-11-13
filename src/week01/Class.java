@@ -1,4 +1,4 @@
-package week02;
+package week01;
 
 class Carr {
     String model;
